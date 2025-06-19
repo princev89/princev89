@@ -1,4 +1,4 @@
-# Prince Vishwakarma
+# Prince Vishwakarma ![Profile views](https://visitor-badge.glitch.me/badge?page_id=PrinceVishwakarma.PrinceVishwakarma)
 
 **Phone:** [+91 8423 621 501](tel:+918423621501)  
 **Email:** [vishwakarmaprince833@gmail.com](mailto:vishwakarmaprince833@gmail.com)  
@@ -13,7 +13,7 @@
 - Full Stack Developer specializing in **Node.js** and **Cloud Infrastructure**.
 - Led development of a dynamic **text editor** with **OpenAI API**, **Markdown parsing**, and **S3 image uploads**.
 - Experienced in server deployments on **Azure VMs** and **AWS EC2**.
-- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=princev89)
+
 
 ---
 
