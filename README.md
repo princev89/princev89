@@ -1,4 +1,4 @@
-# Prince Vishwakarma ![Profile views](https://visitor-badge.glitch.me/badge?page_id=PrinceVishwakarma.PrinceVishwakarma)
+# Prince Vishwakarma ![Profile Views](https://komarev.com/ghpvc/?username=princev89&color=e23e57&label=Profile+Views)
 
 **Phone:** [+91 8423 621 501](tel:+918423621501)  
 **Email:** [vishwakarmaprince833@gmail.com](mailto:vishwakarmaprince833@gmail.com)  
